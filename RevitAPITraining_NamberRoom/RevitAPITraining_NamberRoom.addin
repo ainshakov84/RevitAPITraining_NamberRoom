@@ -1,0 +1,10 @@
+<?xml version ="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>			"D:\RevitApi\RevitAPITraining_NamberRoom.dll"		</Assembly>
+		<AddInId>C9918698-6588-4620-8653-C5F3086D60AD        </AddInId>
+		<FullClassName>		RevitAPITraining_NamberRoom.Main		</FullClassName>
+		<VendorId>			ADSK		</VendorId>
+		<Text>Нумерация помещений1		</Text>
+	</AddIn>
+</RevitAddIns>
